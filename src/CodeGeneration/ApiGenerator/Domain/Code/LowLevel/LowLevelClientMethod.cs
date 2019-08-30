@@ -45,5 +45,7 @@ namespace ApiGenerator.Domain.Code.LowLevel
 				return urlCode;
 			}
 		}
+
+		public string MapsApiArguments { get; set; }
 	}
 }
